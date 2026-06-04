@@ -28,5 +28,5 @@ http://127.0.0.1:4173/
 This repo is ready to serve directly from GitHub Pages. The `CNAME` file is set to:
 
 ```text
-tokeneffiencycoding.com
+tokenefficientcoding.com
 ```
